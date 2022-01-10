@@ -1,0 +1,3 @@
+Escrevendo alguma coisa no arquivo.
+Isso aqui é uma linha
+Isso aqui é outra linha.
